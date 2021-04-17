@@ -22,4 +22,3 @@ describe("Message class", function() {
   });
 
 });
-
